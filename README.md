@@ -11,22 +11,21 @@ This repository provides **educational and awareness-based resources** related t
 - Fertility evaluation and care
 - Patient education and awareness
 
-## 🌐 Official Website
-👉 https://www.santaan.in/
+## Official Website
+https://www.santaan.in/
 
-## 🏥 About Santaan
+## About Santaan
 Santaan Fertility Centre follows evidence-based fertility practices,
 modern laboratory standards, and patient-centric treatment approaches
 to support couples on their fertility journey.
 
-## 📚 Purpose of This Repository
+## Purpose of This Repository
 - Share fertility education material
 - Provide simplified explanations for patients
 - Support fertility awareness initiatives
 - Reference general reproductive health topics
 
-## 📩 Contact & Consultation
+## Contact & Consultation
 For fertility consultations and detailed treatment information,
-please visit the official website:
-https://www.santaan.in/
+please visit the official website
 
