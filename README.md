@@ -26,6 +26,6 @@ to support couples on their fertility journey.
 - Reference general reproductive health topics
 
 ## Contact & Consultation
-For fertility consultations and detailed treatment information,
-please visit the official website
+For fertility consultations and detailed treatment information, you can check 
+<a href="ivf-treatment-bangalore.html">IVF Treatment in Bangalore</a> to learn how IVF treatment works.
 
